@@ -61,7 +61,6 @@ The analysis uses two datasets:
 The transaction and customer datasets were linked using **`LYLTY_CARD_NBR`**, enabling the analysis of sales performance alongside customer characteristics.
 
 # Data Cleaning and Preparation
-# Data Cleaning and Preparation
 
 Data cleaning and preparation were carried out in **Python using Pandas in Google Colab** before the data was imported into Power BI.
 
